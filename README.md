@@ -1,4 +1,4 @@
-SC16S750_Breakout
+SC16IS750 Breakout
 =================
 
 [![SC16IS750 Breakout](https://dlnmh9ip6v2uc.cloudfront.net//images/products/9/9/8/1/09981-01b.jpg)  
