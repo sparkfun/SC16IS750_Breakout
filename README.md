@@ -1,7 +1,7 @@
 SC16IS750 Breakout
 =================
 
-[![SC16IS750 Breakout](https://dlnmh9ip6v2uc.cloudfront.net//images/products/9/9/8/1/09981-01b.jpg)  
+[![SC16IS750 Breakout](https://cdn.sparkfun.com/assets/parts/4/1/2/2/09981-01b.jpg)  
 *Breakout Board for SC16IS750 I2C/SPI-to-UART IC (BOB-09981)*](https://www.sparkfun.com/products/9981)
 
 The SC16IS750 converts I<sup>2</sup>C or SPI serial signals to a single-channel, high-performance UART.
